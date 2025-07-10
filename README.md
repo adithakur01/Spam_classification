@@ -1,14 +1,6 @@
 # Spam Email Classification using Machine Learning
 This project focuses on building a robust classification system to detect spam emails using various machine learning models. The dataset used is the **Spambase** dataset, which contains features extracted from emails to help classify them as spam (`1`) or not spam (`0`).
 
-## Project Structure
-
-├── spambase.data              # Raw dataset
-├── spambase.names             # Feature and target names
-├── spambase_processed.csv     # Scaled dataset
-├── models/                    # ML models and evaluation
-└── notebooks/                 # Jupyter notebooks
-
 ## Technologies and Libraries Used
 * Python 
 * Pandas, NumPy
