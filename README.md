@@ -70,7 +70,7 @@ Actual   0     533   25
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/your-username/spam-email-classifier.git
+git clone https://github.com/your-username/Spam_classifier.git
 cd spam-email-classifier
 
 2. Install required packages:
